@@ -6,6 +6,8 @@ public class ejemplogit2 {
  System.out.print("Hola mundo");
  
  String nombre = "Omar";
+ System.out.println(nombre);
+ 
 	}
 	
 
